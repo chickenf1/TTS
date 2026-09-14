@@ -1,0 +1,17 @@
+{
+  "name": "tts-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot chạy online với Web Server Keep-Alive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
